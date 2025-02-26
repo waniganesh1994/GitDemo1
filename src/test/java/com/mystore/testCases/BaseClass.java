@@ -6,6 +6,10 @@ public class BaseClass {
 	
 	   ReadConfig readconfig = new ReadConfig();
 	   
+	   String a = "Ganesh";
+	 
+	}
+	   
 	   
 
-}
+
