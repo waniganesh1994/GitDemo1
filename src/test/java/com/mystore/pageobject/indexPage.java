@@ -28,5 +28,9 @@ public indexPage(WebDriver rdriver)
 	            signin.click();
    }
    
+   public void clickonsignIn1() {
+       signin.click();
+}
+   
    
 }
